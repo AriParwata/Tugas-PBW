@@ -911,9 +911,10 @@
     position: relative;
     width: 385px;
     height: 514px;
-    background-image: url(./img/one-direction-midnight-memories-2.png);
+    background-image: url(img/goodlife.jpeg);
     background-size: cover;
     background-position: 50% 50%;
+    border-radius: 10px;
 }
 
 .frame .group-6 {
@@ -928,9 +929,10 @@
     position: relative;
     width: 385px;
     height: 514px;
-    background-image: url(./img/download-3.png);
+    background-image: url(img/wolves.jpeg);
     background-size: cover;
     background-position: 50% 50%;
+    border-radius: 10px;
 }
 
 .frame .group-7 {
@@ -945,9 +947,10 @@
     position: relative;
     width: 385px;
     height: 514px;
-    background-image: url(./img/good-life-g-eazy-kehlani-2.png);
+    background-image: url(img/YOASOBI.jpeg);
     background-size: cover;
     background-position: 50% 50%;
+    border-radius: 10px;
 }
 
 .frame .group-wrapper-3 {
